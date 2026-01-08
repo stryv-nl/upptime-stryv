@@ -4,9 +4,9 @@
     "url": "www.stryv.nl",
     "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.stryv.nl&size=32",
     "slug": "stryv-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 16,
     "timeMonth": 16,
     "timeYear": 18,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-08": 0
+    }
   },
   {
     "name": "LiteSpeed Server",
