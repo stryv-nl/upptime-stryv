@@ -4,19 +4,19 @@
     "url": "www.stryv.nl",
     "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.stryv.nl&size=32",
     "slug": "stryv-nl",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "55.88%",
-    "uptimeWeek": "93.49%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "44.12%",
+    "uptimeWeek": "91.81%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "99.28%",
     "time": 17,
     "timeDay": 11,
     "timeWeek": 13,
     "timeMonth": 15,
     "timeYear": 17,
     "dailyMinutesDown": {
-      "2026-01-10": 111,
+      "2026-01-10": 280,
       "2026-01-09": 525,
       "2026-01-08": 21
     }
@@ -26,9 +26,9 @@
     "url": "www.stryv.nl/health-litespeed.php",
     "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.litespeedtech.com/&size=32",
     "slug": "lite-speed-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,16 +37,18 @@
     "timeWeek": 167,
     "timeMonth": 205,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-10": 0
+    }
   },
   {
     "name": "IMAP Server",
     "url": "imap.fastmail.com",
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.fastmail.com/&size=32",
     "slug": "imap-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,16 +57,18 @@
     "timeWeek": 80,
     "timeMonth": 83,
     "timeYear": 84,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-10": 0
+    }
   },
   {
     "name": "SMTP Server",
     "url": "smtp.fastmail.com",
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.fastmail.com/&size=32",
     "slug": "smtp-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +77,8 @@
     "timeWeek": 81,
     "timeMonth": 83,
     "timeYear": 85,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-10": 0
+    }
   }
 ]
