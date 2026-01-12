@@ -1,7 +1,7 @@
 url: imap.fastmail.com
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-01-12T16:51:06.661Z
+status: up
+code: 200
+responseTime: 80
+lastUpdated: 2026-01-12T17:12:36.543Z
 startTime: 2025-10-22T18:19:41.345Z
 generator: Upptime <https://github.com/upptime/upptime>
