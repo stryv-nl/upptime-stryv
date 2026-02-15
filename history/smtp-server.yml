@@ -1,7 +1,7 @@
 url: smtp.fastmail.com
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-02-15T08:01:49.197Z
+status: up
+code: 200
+responseTime: 86
+lastUpdated: 2026-02-15T08:42:55.297Z
 startTime: 2025-10-22T18:19:43.798Z
 generator: Upptime <https://github.com/upptime/upptime>
