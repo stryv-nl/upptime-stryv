@@ -113,15 +113,15 @@
     "url": "imap.fastmail.com",
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.fastmail.com/&size=32",
     "slug": "imap-server",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "89.51%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.69%",
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "50.72%",
+    "uptimeWeek": "92.96%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "99.59%",
     "time": 83,
-    "timeDay": 0,
-    "timeWeek": 88,
+    "timeDay": 82,
+    "timeWeek": 87,
     "timeMonth": 84,
     "timeYear": 82,
     "dailyMinutesDown": {
@@ -158,7 +158,7 @@
       "2026-04-20": 56,
       "2026-05-02": 34,
       "2026-05-09": 34,
-      "2026-11-14": 151
+      "2026-11-14": 710
     }
   },
   {
