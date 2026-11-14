@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 14,
-    "timeDay": 17,
-    "timeWeek": 16,
+    "timeDay": 18,
+    "timeWeek": 17,
     "timeMonth": 15,
     "timeYear": 14,
     "dailyMinutesDown": {
@@ -66,8 +66,8 @@
     "uptimeYear": "99.65%",
     "time": 338,
     "timeDay": 167,
-    "timeWeek": 133,
-    "timeMonth": 217,
+    "timeWeek": 143,
+    "timeMonth": 215,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2026-01-10": 18,
@@ -113,15 +113,15 @@
     "url": "imap.fastmail.com",
     "icon": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.fastmail.com/&size=32",
     "slug": "imap-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 83,
     "timeDay": 87,
-    "timeWeek": 87,
+    "timeWeek": 88,
     "timeMonth": 84,
     "timeYear": 82,
     "dailyMinutesDown": {
@@ -157,7 +157,8 @@
       "2026-04-19": 38,
       "2026-04-20": 56,
       "2026-05-02": 34,
-      "2026-05-09": 34
+      "2026-05-09": 34,
+      "2026-11-14": 1
     }
   },
   {
@@ -172,8 +173,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 83,
-    "timeDay": 89,
-    "timeWeek": 88,
+    "timeDay": 86,
+    "timeWeek": 87,
     "timeMonth": 84,
     "timeYear": 83,
     "dailyMinutesDown": {
